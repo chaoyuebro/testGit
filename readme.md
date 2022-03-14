@@ -1,1 +1,1 @@
-hello world my friend my fellow
+hello world my friend
